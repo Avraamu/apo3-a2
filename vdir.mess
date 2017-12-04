@@ -132,6 +132,39 @@ ENTITY gfx_player_dec
     Compile options: -quiet -nologo -2008 -lower -explicit -work work
     Compile defaults: Explicit=1 CvgOpt=0
     Source directory: epo3-a2
+ENTITY inputbuffer
+    Source modified time: Mon Nov 27 11:41:10 2017
+    Depends on: P std textio zE1`LPoLg^DX3Oz^4Fj1K3
+    Depends on: P ieee std_logic_1164 eNV`TJ_GofJTzYa?f<@Oe1
+    Source directory: epo3-a2
+    HDL source file: VHDL/inputbuffer.vhd
+    Source file: VHDL/inputbuffer.vhd
+    Start location: VHDL/inputbuffer.vhd:4
+    Version string: CY5<h2H?<Oa@5;[GjmaF13
+    Opcode format: 10.5b; VCOM SE-64 Object version 63
+    VHDL language standard: 3 (VHDL-2008)
+    Compile time: Mon Dec  4 11:15:02 2017
+    Debug Symbol file exists
+    Compiled in vopt flow
+    Compile options: -quiet -nologo -2008 -lower -explicit -work work
+    Compile defaults: Explicit=1 CvgOpt=0
+  ARCHITECTURE BODY behaviour
+    Source modified time: Mon Nov 27 12:29:40 2017
+    Depends on: E work inputbuffer CY5<h2H?<Oa@5;[GjmaF13
+    Depends on: P std textio zE1`LPoLg^DX3Oz^4Fj1K3
+    Depends on: P ieee std_logic_1164 eNV`TJ_GofJTzYa?f<@Oe1
+    Source directory: epo3-a2
+    HDL source file: VHDL/inputbuffer-behaviour.vhd
+    Source file: VHDL/inputbuffer-behaviour.vhd
+    Start location: VHDL/inputbuffer-behaviour.vhd:4
+    Version string: `S=bDK5JJINShl??UFkQA0
+    Opcode format: 10.5b; VCOM SE-64 Object version 63
+    VHDL language standard: 3 (VHDL-2008)
+    Compile time: Mon Dec  4 11:15:02 2017
+    Debug Symbol file exists
+    Compiled in vopt flow
+    Compile options: -quiet -nologo -2008 -lower -explicit -work work
+    Compile defaults: Explicit=1 CvgOpt=0
 ENTITY lanespd_fsm
     Source modified time: Thu Nov 30 11:56:04 2017
     Depends on: P std textio zE1`LPoLg^DX3Oz^4Fj1K3
@@ -220,14 +253,14 @@ ENTITY rng_tb
     Source modified time: Mon Nov 27 11:44:41 2017
     Depends on: P std textio zE1`LPoLg^DX3Oz^4Fj1K3
     Depends on: P ieee std_logic_1164 eNV`TJ_GofJTzYa?f<@Oe1
-    Source directory: epo3-a2
+    Source directory: /epo3-a2
     HDL source file: VHDL/rng_tb.vhd
     Source file: VHDL/rng_tb.vhd
     Start location: VHDL/rng_tb.vhd:4
     Version string: @EKSz>3>463Pl84ebe9Q;3
     Opcode format: 10.5b; VCOM SE-64 Object version 63
     VHDL language standard: 3 (VHDL-2008)
-    Compile time: Mon Dec  4 10:57:33 2017
+    Compile time: Mon Dec  4 10:57:46 2017
     Debug Symbol file exists
     Compiled in vopt flow
     Compile options: -quiet -nologo -2008 -lower -explicit -work work
@@ -237,18 +270,18 @@ ENTITY rng_tb
     Depends on: E work rng_tb @EKSz>3>463Pl84ebe9Q;3
     Depends on: P std textio zE1`LPoLg^DX3Oz^4Fj1K3
     Depends on: P ieee std_logic_1164 eNV`TJ_GofJTzYa?f<@Oe1
-    Source directory: epo3-a2
     HDL source file: VHDL/rng_tb-behaviour.vhd
     Source file: VHDL/rng_tb-behaviour.vhd
     Start location: VHDL/rng_tb-behaviour.vhd:4
     Version string: a7BlikW9HB1aROD?a26:Z1
     Opcode format: 10.5b; VCOM SE-64 Object version 63
     VHDL language standard: 3 (VHDL-2008)
-    Compile time: Mon Dec  4 10:57:34 2017
+    Compile time: Mon Dec  4 10:57:44 2017
     Debug Symbol file exists
     Compiled in vopt flow
     Compile options: -quiet -nologo -2008 -lower -explicit -work work
     Compile defaults: Explicit=1 CvgOpt=0
+    Source directory: /epo3-a2
 ENTITY tb
     Source modified time: Thu Nov 30 12:08:28 2017
     Depends on: P std textio zE1`LPoLg^DX3Oz^4Fj1K3

@@ -176,6 +176,49 @@ R3
 !i113 0
 R5
 R6
+Einputbuffer
+w1511779270
+R0
+R1
+R2
+8VHDL/inputbuffer.vhd
+FVHDL/inputbuffer.vhd
+l0
+L4
+VCY5<h2H?<Oa@5;[GjmaF13
+!s100 ?o>MidI0Vma9<FO?bP2YX1
+R3
+33
+Z7 !s110 1512382502
+!i10b 1
+Z8 !s108 1512382502.000000
+!s90 -2008|-lower|-explicit|-work|work|VHDL/inputbuffer.vhd|-quiet|-nologo|
+!s107 VHDL/inputbuffer.vhd|
+!i113 0
+R5
+R6
+Abehaviour
+w1511782180
+DEx4 work 11 inputbuffer 0 22 CY5<h2H?<Oa@5;[GjmaF13
+R0
+R1
+depo3-a2
+8VHDL/inputbuffer-behaviour.vhd
+FVHDL/inputbuffer-behaviour.vhd
+l5
+L4
+V`S=bDK5JJINShl??UFkQA0
+!s100 7^IK=1QKmk8Lo@[]@=Je=1
+R3
+33
+R7
+!i10b 1
+R8
+!s90 -2008|-lower|-explicit|-work|work|VHDL/inputbuffer-behaviour.vhd|-quiet|-nologo|
+!s107 VHDL/inputbuffer-behaviour.vhd|
+!i113 0
+R5
+R6
 Elanespd_fsm
 w1512039364
 R0
@@ -189,9 +232,9 @@ VP23U@]KnG^Q?5:8;_[6Q91
 !s100 a2GZSdM?49nez8AA]jHQ70
 R3
 33
-Z7 !s110 1512380816
+Z9 !s110 1512380816
 !i10b 1
-Z8 !s108 1512380816.000000
+Z10 !s108 1512380816.000000
 !s90 -2008|-lower|-explicit|-work|work|VHDL/lanespd_fsm.vhd|-quiet|-nologo|
 !s107 VHDL/lanespd_fsm.vhd|
 !i113 0
@@ -199,7 +242,7 @@ R5
 R6
 Abehaviour
 w1512039464
-Z9 DEx4 work 11 lanespd_fsm 0 22 P23U@]KnG^Q?5:8;_[6Q91
+Z11 DEx4 work 11 lanespd_fsm 0 22 P23U@]KnG^Q?5:8;_[6Q91
 R0
 R1
 8VHDL/lanespd_fsm-behaviour.vhd
@@ -220,7 +263,7 @@ R5
 R6
 Asynthesised
 w1512374512
-R9
+R11
 DPx8 cellslib 18 cellslib_decl_pack 0 22 C_V`I?bM<:>X]9]N228Sm1
 R0
 R1
@@ -232,9 +275,9 @@ Vh;GjeL8o;Lm]ZnY30WC4R2
 !s100 h?ZeF8niYnmaLLn8ZW_No2
 R3
 33
-R7
+R9
 !i10b 1
-R8
+R10
 !s90 -2008|-lower|-explicit|-work|work|VHDL/lanespd_fsm_SYNTH.vhd|-quiet|-nologo|
 !s107 VHDL/lanespd_fsm_SYNTH.vhd|
 !i113 0
@@ -255,7 +298,7 @@ R3
 33
 !s110 1512381448
 !i10b 1
-Z10 !s108 1512381448.000000
+Z12 !s108 1512381448.000000
 !s90 -2008|-lower|-explicit|-work|work|VHDL/rng.vhd|-quiet|-nologo|
 !s107 VHDL/rng.vhd|
 !i113 0
@@ -276,7 +319,7 @@ R3
 33
 !s110 1512381449
 !i10b 1
-R10
+R12
 !s90 -2008|-lower|-explicit|-work|work|VHDL/rng-behaviour.vhd|-quiet|-nologo|
 !s107 VHDL/rng-behaviour.vhd|
 !i113 0
@@ -286,7 +329,7 @@ Erng_tb
 w1511779481
 R0
 R1
-Z11 d/home/rwroeleveld/Desktop/epo3-a2
+Z13 d/epo3-a2
 8VHDL/rng_tb.vhd
 FVHDL/rng_tb.vhd
 l0
@@ -337,7 +380,7 @@ VoNfaaTM^m<^M8I7^j[ehU2
 !s100 cSm_i^60[D@O`YYbIZ24G3
 R3
 33
-Z12 !s110 1512380825
+Z14 !s110 1512380825
 !i10b 1
 !s108 1512380824.000000
 !s90 -2008|-lower|-explicit|-work|work|VHDL/tb.vhd|-quiet|-nologo|
@@ -358,7 +401,7 @@ V@P9Kam^Fn0_3F8L<imljP0
 !s100 NaF=dOIcieh]MHedo[NU`1
 R3
 33
-R12
+R14
 !i10b 1
 !s108 1512380825.000000
 !s90 -2008|-lower|-explicit|-work|work|VHDL/tb-behaviour.vhd|-quiet|-nologo|
@@ -379,9 +422,9 @@ VhIJ6L@=`<?1M3m28V>jPF3
 !s100 n3TUVUPjhDSK1[3Kf?TCg1
 R3
 33
-Z13 !s110 1512380842
+Z15 !s110 1512380842
 !i10b 1
-Z14 !s108 1512380842.000000
+Z16 !s108 1512380842.000000
 !s90 -2008|-lower|-explicit|-work|work|VHDL/timebase.vhd|-quiet|-nologo|
 !s107 VHDL/timebase.vhd|
 !i113 0
@@ -401,9 +444,9 @@ VBf?NG;TlE<PzH9kJ[==3D3
 !s100 WUSK7^ZPmTR;SA?[5VaRY0
 R3
 33
-R13
+R15
 !i10b 1
-R14
+R16
 !s90 -2008|-lower|-explicit|-work|work|VHDL/timebase-behaviour.vhd|-quiet|-nologo|
 !s107 VHDL/timebase-behaviour.vhd|
 !i113 0
