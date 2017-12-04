@@ -1,2 +1,101 @@
 Library vendor : Model Technology
 Maximum unnamed designs : 3
+ENTITY gfx_dec_sel
+    Source modified time: Mon Dec  4 09:39:56 2017
+    Depends on: P std textio zE1`LPoLg^DX3Oz^4Fj1K3
+    Depends on: P ieee std_logic_1164 eNV`TJ_GofJTzYa?f<@Oe1
+    Source directory: epo3-a2
+    HDL source file: VHDL/gfx_dec_sel.vhd
+    Source file: VHDL/gfx_dec_sel.vhd
+    Start location: VHDL/gfx_dec_sel.vhd:4
+    Version string: mKCDEPB]?@KGAOFWzdO`E3
+    Opcode format: 10.5b; VCOM SE-64 Object version 63
+    VHDL language standard: 3 (VHDL-2008)
+    Compile time: Mon Dec  4 09:39:57 2017
+    Debug Symbol file exists
+    Compiled in vopt flow
+    Compile options: -quiet -nologo -2008 -lower -explicit -work work
+    Compile defaults: Explicit=1 CvgOpt=0
+  ARCHITECTURE BODY behaviour
+    Source modified time: Mon Dec  4 09:40:14 2017
+    Depends on: E work gfx_dec_sel mKCDEPB]?@KGAOFWzdO`E3
+    Depends on: P std textio zE1`LPoLg^DX3Oz^4Fj1K3
+    Depends on: P ieee std_logic_1164 eNV`TJ_GofJTzYa?f<@Oe1
+    HDL source file: VHDL/gfx_dec_sel-behaviour.vhd
+    Source file: VHDL/gfx_dec_sel-behaviour.vhd
+    Start location: VHDL/gfx_dec_sel-behaviour.vhd:12
+    Version string: T<SEGKLzleeohJ=<@4PTH0
+    Opcode format: 10.5b; VCOM SE-64 Object version 63
+    VHDL language standard: 3 (VHDL-2008)
+    Compile time: Mon Dec  4 09:40:15 2017
+    Debug Symbol file exists
+    Compiled in vopt flow
+    Compile options: -quiet -nologo -2008 -lower -explicit -work work
+    Compile defaults: Explicit=1 CvgOpt=0
+    Source directory: epo3-a2
+ENTITY gfx_lane_dec
+    Source modified time: Mon Dec  4 09:40:48 2017
+    Depends on: P std textio zE1`LPoLg^DX3Oz^4Fj1K3
+    Depends on: P ieee std_logic_1164 eNV`TJ_GofJTzYa?f<@Oe1
+    Source directory: epo3-a2
+    HDL source file: VHDL/gfx_lane_dec.vhd
+    Source file: VHDL/gfx_lane_dec.vhd
+    Start location: VHDL/gfx_lane_dec.vhd:4
+    Version string: U59@FK:6Hk3XRLUK^6`IY3
+    Opcode format: 10.5b; VCOM SE-64 Object version 63
+    VHDL language standard: 3 (VHDL-2008)
+    Compile time: Mon Dec  4 09:40:49 2017
+    Debug Symbol file exists
+    Compiled in vopt flow
+    Compile options: -quiet -nologo -2008 -lower -explicit -work work
+    Compile defaults: Explicit=1 CvgOpt=0
+  ARCHITECTURE BODY behaviour
+    Source modified time: Mon Dec  4 09:41:03 2017
+    Depends on: E work gfx_lane_dec U59@FK:6Hk3XRLUK^6`IY3
+    Depends on: P std textio zE1`LPoLg^DX3Oz^4Fj1K3
+    Depends on: P ieee std_logic_1164 eNV`TJ_GofJTzYa?f<@Oe1
+    HDL source file: VHDL/gfx_lane_dec-behaviour.vhd
+    Source file: VHDL/gfx_lane_dec-behaviour.vhd
+    Start location: VHDL/gfx_lane_dec-behaviour.vhd:4
+    Version string: JmQkOISAKf89g6oJA^I_01
+    Opcode format: 10.5b; VCOM SE-64 Object version 63
+    VHDL language standard: 3 (VHDL-2008)
+    Compile time: Mon Dec  4 09:41:03 2017
+    Debug Symbol file exists
+    Compiled in vopt flow
+    Compile options: -quiet -nologo -2008 -lower -explicit -work work
+    Compile defaults: Explicit=1 CvgOpt=0
+    Source directory: epo3-a2
+ENTITY gfx_player_dec
+    Source modified time: Mon Dec  4 09:41:27 2017
+    Depends on: P std textio zE1`LPoLg^DX3Oz^4Fj1K3
+    Depends on: P ieee std_logic_1164 eNV`TJ_GofJTzYa?f<@Oe1
+    Source directory: epo3-a2
+    HDL source file: VHDL/gfx_player_dec.vhd
+    Source file: VHDL/gfx_player_dec.vhd
+    Start location: VHDL/gfx_player_dec.vhd:4
+    Version string: 2Q;SNi=Me13jZj_C6gBhI0
+    Opcode format: 10.5b; VCOM SE-64 Object version 63
+    VHDL language standard: 3 (VHDL-2008)
+    Compile time: Mon Dec  4 09:41:28 2017
+    Debug Symbol file exists
+    Compiled in vopt flow
+    Compile options: -quiet -nologo -2008 -lower -explicit -work work
+    Compile defaults: Explicit=1 CvgOpt=0
+  ARCHITECTURE BODY behaviour
+    Source modified time: Mon Dec  4 09:41:48 2017
+    Depends on: E work gfx_player_dec 2Q;SNi=Me13jZj_C6gBhI0
+    Depends on: P std textio zE1`LPoLg^DX3Oz^4Fj1K3
+    Depends on: P ieee std_logic_1164 eNV`TJ_GofJTzYa?f<@Oe1
+    Source directory: epo3-a2
+    HDL source file: VHDL/gfx_player_dec-behaviour.vhd
+    Source file: VHDL/gfx_player_dec-behaviour.vhd
+    Start location: VHDL/gfx_player_dec-behaviour.vhd:4
+    Version string: Wb6O1_MA<N8Q>SHhamL8C0
+    Opcode format: 10.5b; VCOM SE-64 Object version 63
+    VHDL language standard: 3 (VHDL-2008)
+    Compile time: Mon Dec  4 09:41:48 2017
+    Debug Symbol file exists
+    Compiled in vopt flow
+    Compile options: -quiet -nologo -2008 -lower -explicit -work work
+    Compile defaults: Explicit=1 CvgOpt=0
